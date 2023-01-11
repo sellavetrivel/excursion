@@ -29,3 +29,9 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: aquamarine;
 }
 
+/* FOOTER */
+.footer--copyright{
+    font-size:21px;
+    color: grey;
+    text-align: right;
+}
